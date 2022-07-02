@@ -14,8 +14,8 @@ text-align: center;
 }
 
 	 #icon{ /* logo */
-		max-width:4%; /*propiedad, define el ancho máximo que un elemento puede tener*/
-		width:auto; /* propiedad width css establece el ancho de un elemento. Auto - Valor por defecto. El navegador calcula el ancho*/
+max-width:10%; /*propiedad, define el ancho máximo que un elemento puede tener*/
+		 width:auto; /* propiedad width css establece el ancho de un elemento. Auto - Valor por defecto. El navegador calcula el ancho*/
 		height:auto; /* propiedad height css establece la altura de un elemento*/
 		float:left;		/* Mantiene la imagen flotando a la izquierda*/
 	}
